@@ -1,0 +1,7 @@
+../src/app_buzzer.c:14:17:getNote	16	static
+../src/app_buzzer.c:60:13:delay_us_soft	24	static
+../src/app_buzzer.c:64:13:delay_ms_soft	24	static
+../src/app_buzzer.c:68:6:buzzer_set_volume	32	static
+../src/app_buzzer.c:93:16:playNote	24	static
+../src/app_buzzer.c:116:6:buzzer_init	16	static
+../src/app_buzzer.c:139:6:buzzer_play_alarm	32	static

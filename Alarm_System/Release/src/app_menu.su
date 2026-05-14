@@ -1,0 +1,3 @@
+../src/app_menu.c:36:6:menu_init	0	static
+../src/app_menu.c:43:6:menu_process	24	static
+../src/app_menu.c:175:6:menu_update_display	48	static

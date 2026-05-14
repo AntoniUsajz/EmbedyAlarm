@@ -1,0 +1,4 @@
+../src/app_buzzer.c:15:13:delay_us_soft	8	static
+../src/app_buzzer.c:19:6:buzzer_set_volume	16	static
+../src/app_buzzer.c:41:6:buzzer_init	16	static
+../src/app_buzzer.c:64:6:buzzer_play_alarm	16	static

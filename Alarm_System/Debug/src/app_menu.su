@@ -1,0 +1,8 @@
+C:\Users\Antoni\Documents\MCUXpressoIDE_25.6.136\G06_NEW\Lib_CMSISv1p30_LPC17xx\inc/core_cm3.h:1211:22:__WFI	4	static
+C:\Users\Antoni\Documents\MCUXpressoIDE_25.6.136\G06_NEW\Lib_CMSISv1p30_LPC17xx\inc/core_cm3.h:1502:22:NVIC_EnableIRQ	16	static
+../src/app_menu.c:41:6:EINT0_IRQHandler	4	static
+../src/app_menu.c:45:6:system_enter_deep_sleep	8	static
+../src/app_menu.c:59:6:sleep_config_eint0	16	static
+../src/app_menu.c:76:6:menu_init	8	static
+../src/app_menu.c:90:6:menu_process	24	static
+../src/app_menu.c:231:6:menu_update_display	64	static

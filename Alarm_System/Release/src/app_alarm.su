@@ -1,0 +1,13 @@
+../src/app_alarm.c:12:6:alarm_init	8	static
+../src/app_alarm.c:17:9:alarm_check	40	static
+../src/app_alarm.c:25:6:alarm_clear	0	static
+../src/app_alarm.c:26:9:alarm_get_hour	0	static
+../src/app_alarm.c:27:9:alarm_get_minute	0	static
+../src/app_alarm.c:28:6:alarm_inc_hour	0	static
+../src/app_alarm.c:29:6:alarm_dec_hour	0	static
+../src/app_alarm.c:30:6:alarm_inc_minute	0	static
+../src/app_alarm.c:31:6:alarm_dec_minute	0	static
+../src/app_alarm.c:33:9:alarm_get_volume	0	static
+../src/app_alarm.c:34:6:alarm_set_volume	0	static
+../src/app_alarm.c:35:9:alarm_get_sound	0	static
+../src/app_alarm.c:36:6:alarm_set_sound	0	static

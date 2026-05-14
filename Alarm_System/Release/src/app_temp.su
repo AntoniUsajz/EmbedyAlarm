@@ -1,0 +1,2 @@
+../src/app_temp.c:5:6:init_app_temp	0	static
+../src/app_temp.c:10:6:get_temp_string	8	static

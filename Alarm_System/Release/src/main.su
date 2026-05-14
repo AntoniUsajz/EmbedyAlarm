@@ -1,0 +1,4 @@
+../src/main.c:20:11:getTicks	0	static
+../src/main.c:16:6:SysTick_Handler	0	static
+../src/main.c:68:5:main	40	static
+../src/main.c:110:6:check_failed	0	static
